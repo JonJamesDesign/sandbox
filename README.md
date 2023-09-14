@@ -1,2 +1,4 @@
-# sandbox
-Code sandbox
+** Get Started: **
+
+`$ yarn install`
+`$ yarn start`
